@@ -1,8 +1,110 @@
-# React + Vite
+# 🏨 Hotel Booking React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Hotel Booking web application built using React, Vite, and Tailwind CSS. Users can browse hotels, view hotel details, and book rooms through an intuitive and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://hotel-booking-react-seven.vercel.app/
+
+---
+
+## 📌 Features
+
+- 🏨 Browse available hotels
+- 🔍 View hotel details
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite
+- 🎨 Modern UI using Tailwind CSS
+- 📄 Easy navigation and booking interface
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```bash
+hotel-booking-react/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.jsx
+│
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sandeep8128/hotel-booking-react.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd hotel-booking-react
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+
+## 🌐 Deployment
+
+This project is deployed on Vercel.
+
+```bash
+npm run build
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push the branch
+5. Create a Pull Request
+
+---
+
+## 👨‍💻 Author
+
+**Sandeep Prajapati**
+
+- GitHub: https://github.com/sandeep8128
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
